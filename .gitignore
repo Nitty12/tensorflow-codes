@@ -1,2 +1,5 @@
 graphs/
 checkpoints/
+style_transfer/graphs/
+style_transfer/checkpoints/
+style_transfer/imagenet-vgg-verydeep-19.mat
